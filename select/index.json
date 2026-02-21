@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Eternally",
+  "base_artist": "JUJU",
+  "createdAt": "2026-02-21T14:55:12.669358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eternally Yours",
+      "artist": "2 Unlimited",
+      "has_synced": true,
+      "path": "select/01_Eternally_Yours_2_Unlimited.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Eternally Damned",
+      "artist": "Einherjer",
+      "has_synced": true,
+      "path": "select/02_The_Eternally_Damned_Einherjer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "As We Eternally Sleep on It",
+      "artist": "Moonspell",
+      "has_synced": true,
+      "path": "select/03_As_We_Eternally_Sleep_on_It_Moonspell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Always and Eternally",
+      "artist": "Grave Digger",
+      "has_synced": true,
+      "path": "select/04_Always_and_Eternally_Grave_Digger.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eternally",
+      "artist": "Rage",
+      "has_synced": false,
+      "path": "select/05_Eternally_Rage.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Eternally",
+      "artist": "Julia Lucille",
+      "has_synced": true,
+      "path": "select/06_Eternally_Julia_Lucille.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Your World Is Eternally Complete",
+      "artist": "Sweet Trip",
+      "has_synced": true,
+      "path": "select/07_Your_World_Is_Eternally_Complete_Sweet_Trip.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Eternally Apart",
+      "artist": "Phinehas",
+      "has_synced": false,
+      "path": "select/08_Eternally_Apart_Phinehas.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Eternally Oblivion",
+      "artist": "Lorna Shore",
+      "has_synced": true,
+      "path": "select/09_Eternally_Oblivion_Lorna_Shore.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eternally Yours",
+      "artist": "Motionless In White",
+      "has_synced": true,
+      "path": "select/10_Eternally_Yours_Motionless_In_White.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Eternally",
+      "artist": "Petula Clark",
+      "has_synced": false,
+      "path": "select/11_Eternally_Petula_Clark.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Eternally",
+      "artist": "Engelbert Humperdinck",
+      "has_synced": true,
+      "path": "select/12_Eternally_Engelbert_Humperdinck.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rockin' You Eternally",
+      "artist": "Leon Ware",
+      "has_synced": true,
+      "path": "select/13_Rockin'_You_Eternally_Leon_Ware.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eternally",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_01_Eternally_JUJU.txt"
+    }
+  ]
+}
